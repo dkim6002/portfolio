@@ -1,0 +1,20 @@
+#logo-container {
+	border-style: solid;
+	border-width: 1em;
+	color: #ffffff;
+	width: 20em;
+	height: 20em;
+	position: absolute;
+  top: 50%;
+  left: 50%;
+	margin: -70px 0 0 -170px;
+}
+
+#logo-initials {
+	color: #ffffff;
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Wallpoet', cursive;
+}
